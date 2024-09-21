@@ -157,7 +157,12 @@ align-items: center;
 .plan_prov{
 	background: linear-gradient(hsl(236, 72%, 79%) , hsl(237, 63%, 64%));
 	color: #FFF;
-	transform: scale(1.08);
+	transform: scale(1.09);
+	padding: 2.2rem 0.5rem;
+}
+
+.plan_prov p{
+	margin: 0.82rem;
 }
 
 .btn{
