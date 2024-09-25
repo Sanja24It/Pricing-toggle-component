@@ -7,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(./images/bg-top.svg) right top no-repeat, url(./images/bg-bottom.svg) left bottom no-repeat, hsl(240, 78%, 98%);
+    background: url(./images/bg-top.svg) right top no-repeat, url(./images/bg-bottom.svg) left bottom no-repeat,hsl(233, 13%, 49%)
     
 }
 
@@ -26,7 +26,7 @@ body{
 }
 
 .price_heading h1{
-    color: hsl(233, 13%, 49%);
+    color: hsl(240, 78%, 98%);
     font-size: 2rem;
 }
 
